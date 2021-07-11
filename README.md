@@ -8,4 +8,4 @@ This model is built using the Python programming language with the CNN Algorithm
 
 - version 1.0 = using optimizer = Adam, loss_function = categorical_crossentropy
 - version 2.0 = using optimizer = RMSprop, loss_function = categorical_crossentropy
-- version 2.0 = using optimizer = RMSprop, loss_function = categorical_crossentropy, adding dropout process for handle overfit problem, change learning rate, add callback statement
+- version 2.1 = using optimizer = RMSprop, loss_function = categorical_crossentropy, adding dropout process for handle overfit problem, change learning rate, add callback statement
