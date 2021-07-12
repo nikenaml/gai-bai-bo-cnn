@@ -1,4 +1,4 @@
-# gai-bai-bo-games
+# gai-bai-bo-game-architecture
 
 Heyhoy friends! I'm trying to create a game architecture from a neural network model to read finger and hand-drawn input using the CNN model architecture. This game is usually called the "suit jari" game aka Gai Bai Bo!!! (The type of the game is similar to that in South Korea) to read finger input such as photographs of rock, paper, or scissors. The reference dataset used comes from **https://www.kaggle.com/drgfreeman/rockpaperscissors**. The dataset contains hundreds of finger and hand-drawn shapes of various sizes, skin tones, positions, and hand directions.
 
